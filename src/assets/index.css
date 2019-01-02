@@ -1,8 +1,7 @@
 /* 公共样式 */
 
 html,
-body,
-h2 {
+body{
     height: 100%;
     padding: 0;
     margin: 0;
