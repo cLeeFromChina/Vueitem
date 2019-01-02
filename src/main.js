@@ -5,6 +5,7 @@ import App from './App'
 import router from './router'
 import ElementUI from 'element-ui'
 import './assets/index.css'
+import '../node_modules/element-ui/lib/theme-chalk/index.css'
 import httpHelper from '@/plugins/http.js'
 
 Vue.use(ElementUI)

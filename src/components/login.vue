@@ -39,37 +39,23 @@
 </script>
 
 <style>
-	.wrap{
-		height: 100%;
-		background-color: #324152;
-		overflow: hidden;
-		text-align: center;
-		display: flex;
-		justify-content: center;
-		align-items: center;
-	}
-	.wrap .form{
-		background-color: white;
-		width: 400px;
-		border-radius: 20px;
-		padding: 80px;
-	}
-	.wrap .form .btn{
-		width: 100%;
-		margin-top: 50px;
-		height: 40px;
-		background-color: #ccc;
-		cursor: pointer;
-		border: none;
-		font-size: 16px;
-	}
-	.wrap input{
-		width: 200px;
-		height: 20px;
-		margin-top: 10px;
-		margin-bottom: 10px;
-	}
-	.wrap label{
-		font-size: 16px;
-	}
+	.wrap {
+  height: 100%;
+  /* 取色计 */
+  background-color: #324152;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrap .form {
+  background-color: #ffffff;
+  border-radius: 10px;
+  width: 400px;
+  padding: 30px;
+}
+
+.wrap .form .btn {
+  width: 100%;
+}
 </style>
